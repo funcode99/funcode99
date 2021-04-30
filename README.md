@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @funcode99
-- 👀 I’m interested in coding, electronics, and physics
-- 🌱 I’m currently learning full stack web developer & DevOps
+- 👀 I’m interested in Coding, Electronics, and Physics
+- 🌱 I’m currently learning Full Stack Web Development & DevOps
 - 💞️ I’m looking to collaborate on Python & Javascript based projects
 - 📫 You can reach me by email at icevalleyheaven@gmail.com
 
