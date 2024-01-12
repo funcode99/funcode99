@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @funcode99
 - 👀 I’m interested in Coding, Electronics, and Physics
-- 🌱 I’m currently learning Full Stack Mobile Development & DevOps
-- 💞️ I’m looking to collaborate on Dart, Python & Javascript based projects
+- 🌱 I’m currently learning Full Stack Development & DevOps
+- 💞️ I’m looking to collaborate Javascript based projects
 - 📫 You can reach me by email at luth.idris.99@gmail.com
 
 <!---
